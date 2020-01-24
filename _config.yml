@@ -3,9 +3,9 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: Ulas Bahar
+title: IT/Tech Recruiter
+email: ulas.bahar@shr-consulting.com
 phone: Your phone number (optional)
 website: Your website (eg. https://google.com)(optional)
 
@@ -13,13 +13,13 @@ darkmode: false
 
 # Social links
 twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
+github_username:  sHRspr1ng
+stackoverflow_username: "10684113"
 dribbble_username: jekyll
 facebook_username: jekyll
 flickr_username: jekyll
 instagram_username: jekyll
-linkedin_username: jekyll
+linkedin_username: ulasbahar
 xing_username: jekyll
 pinterest_username: jekyll
 youtube_username: jekyll

@@ -12,19 +12,9 @@ website: Your website (eg. https://google.com)(optional)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  sHRspr1ng
+github_username:  ulasbahar
 stackoverflow_username: "10684113"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
 linkedin_username: ulasbahar
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
-orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:

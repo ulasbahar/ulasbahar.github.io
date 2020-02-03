@@ -7,6 +7,6 @@
     - title: Associate Talent Miner - IT Recruitment Consultant
       dates: Nov 2018 - Feb 2020
   quote: >
-   Short description of the company (optional)
+  # Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
     Description of role

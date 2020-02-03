@@ -5,7 +5,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 # Personal info
 name: Ulas Bahar
 title: IT/Tech Recruiter
-email: ulas.bahar@shr-consulting.com
+email: mulasbahar@gmail.com
 phone: +90 538 422 3843
 # website: Your website (eg. https://google.com)(optional)
 
@@ -17,10 +17,10 @@ stackoverflow_username: "10684113"
 linkedin_username: ulasbahar
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+# additional_links:
+# - title: Link name
+#  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#  url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)

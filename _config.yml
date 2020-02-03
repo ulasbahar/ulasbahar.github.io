@@ -50,9 +50,13 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
   In my personal time i usually:
+  
   • Play video-games(both PC&console)
+  
   • Watch TV Series/Movies
+  
   • Follow trending technologies
+  
   • Follow SW engineering courses on Udemy
   
 # Footer

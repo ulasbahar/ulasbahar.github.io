@@ -1,12 +1,12 @@
 - layout: left
   company: sHR. Consultancy
-  link: https://shr-consulting.com/
+  link: [shr-consulting.com](shr-consulting.com)
   jobs:
     - title: Talent Miner - IT Recruitment Consultant
       dates: Feb 2020 - present
     - title: Associate Talent Miner - IT Recruitment Consultant
       dates: Nov 2018 - Feb 2020
-  quote: >
+  # quote: >
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
     Description of role
